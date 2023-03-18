@@ -12,9 +12,47 @@
 	
   </head>
   <body>
-    <header>
-	     <img src="logo.png" alt="Logo Pizzaria" />
+    <header class="text white d-flex">
+      <div class="container d-flex justify-content-between align-items-center">
+	     <img src="img/logo.png" alt="Logo Pizzaria" />
+
+<nav>
+  <ul class="menu list-inline">
+    <li class="list-inline-item"><a href='#'>Home</a></li>
+    <li class="list-inline-item"><a href='#'>Sobre</a></li>
+    <li class="list-inline-item"><a href='#'>Cardapio</a></li>
+    <li class="list-inline-item"><a href='#'>Contato</a></li>
+    
+</ul>
+</nav>
+
+</div>
+
 	</header>
+  <section class="container">
+    <div class="row">
+      <nav class="col-md-2"
+      <ul class-"list-unstyled">
+        <li><a href"#">Home</a></li>
+        <li><a href"q1.html">Questao 1</a></li>
+        <li><a href"q2.html">Questao 2</a></li>
+        <li><a href"q3.html">Questao 3</a></li>
+        <li><a href"q4.html">Questao 4</a></li>
+
+     </ul>
+     </nav>
+<main class="col-md-9"></main>
+    <h1>Home</h1>
+    <p>
+
+    Mussum Ipsum, cacilds vidis litro abertis. Copo furadis é disculpa de bebadis, arcu quam euismod magna.Sapien in monti palavris qui num significa nadis i pareci latim.Detraxit consequat et quo num tendi nada.Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.
+
+    </p>
+</main>
+</div>
+</section>
+
+
 
     <!-- JavaScript (Opcional) -->
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
