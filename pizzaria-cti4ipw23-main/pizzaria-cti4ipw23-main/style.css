@@ -18,6 +18,7 @@ main{
 footer{
      background-color: #454545;
      padding: 2rem;
+     min-heigth: 235px;
 
 }
 section-nav{
